@@ -32,3 +32,7 @@ or in your app.psgi:
 =head1 DESCRIPTION
 
 Dancer::Debug extends L<Plack::Middleware::Debug> with some specific panels for Dancer.
+
+=head1 MAINTAINER
+
+Dancer Core Team
